@@ -8,7 +8,13 @@ namespace SERVERLOG
 {
     class Entity
     {
-        string Name { get; set; }
-        int Damage { get; set; }
+        public string Name { get; set; }
+        public int Damage { get; set; }
+
+        public Entity(string name, int damage)
+        {
+            Name = name;
+            Damage = damage;
+        }
     }
 }
