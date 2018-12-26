@@ -1,0 +1,7 @@
+C:\Users\marco\source\repos\SERVERLOG\SERVERLOG\bin\Debug\SERVERLOG.exe.config
+C:\Users\marco\source\repos\SERVERLOG\SERVERLOG\bin\Debug\SERVERLOG.exe
+C:\Users\marco\source\repos\SERVERLOG\SERVERLOG\bin\Debug\SERVERLOG.pdb
+C:\Users\marco\source\repos\SERVERLOG\SERVERLOG\obj\Debug\SERVERLOG.csprojAssemblyReference.cache
+C:\Users\marco\source\repos\SERVERLOG\SERVERLOG\obj\Debug\SERVERLOG.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\SERVERLOG\SERVERLOG\obj\Debug\SERVERLOG.exe
+C:\Users\marco\source\repos\SERVERLOG\SERVERLOG\obj\Debug\SERVERLOG.pdb
